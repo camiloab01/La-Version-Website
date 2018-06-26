@@ -68,7 +68,14 @@ section h1 {
 	background: #000;
 	z-index: 500;
 }
-.main-logo{float: left; margin-left: 130px; margin-top: 60px;}
+.main-logo{
+	display: inline;
+}
+.main-logo img {
+	width: 10%;
+	margin-left: 2%;
+	margin-top: 1%;
+}
 .main-menu{float: right; margin-right: 130px; margin-top: 60px;}
 .main-menu li{
 	float: left;
