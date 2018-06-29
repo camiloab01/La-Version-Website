@@ -2,6 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic,300italic,300,900,100);
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,300italic,300,400italic,600,700);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600,800);
+@font-face{
+	font-family: ArcaMajora3;
+	src: url("../Fonts/ArcaMajora3-Bold.woff");
+}
+
 
 /* General Styles */
 #mask {
@@ -121,8 +126,8 @@ section h1 {
 	color: #fff;
 	font-size: 14px;
 	text-transform: uppercase;
-	font-family: "open sans";
-	font-weight: bold;
+	font-family: "ArcaMajora3";
+	/* font-weight: bold; */
 }
 .main-menu li a:hover{border-color: #c3121c !important;}
 .main-menu li.current a{border-color: #c3121c !important;}
