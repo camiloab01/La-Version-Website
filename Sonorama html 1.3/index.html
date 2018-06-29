@@ -198,15 +198,13 @@
     <!-- end Audio Player -->
 
     <!-- start video -->
-    <!-- <div id="anchor0"></div>
+    <!-- 
     <section id="slides-1" class="player" data-property="{videoURL:'csr04XtVagk',showControls:false,containment:'self',autoPlay:true, mute:false, startAt:0,opacity:1,ratio:'4/3', addRaster:true}">
         <a href="#" class="play-video">Play/Pause</a>
     </section> -->
     <div class="video-container">
-        <video class="video-fluid" preload playsinline muted loop>
+        <video class="video-fluid" id="main-video" muted loop>
             <source src="videos/loop-lvedlc.mp4" type="video/mp4">
-            <!-- <source src="videos/video-1.ogv" type="video/ogg">
-                    <source src="videos/video-1.webm" type="video/webm"> -->
         </video>
     </div>
     <!-- end video -->
@@ -1044,6 +1042,7 @@
     <script src="js/plugins.js"></script>
     <script src="js/jquery.mb.YTPlayer.js"></script>
     <script src="js/sonorama.js"></script>
+    <script src="js/video.js"></script>
 
 
 
