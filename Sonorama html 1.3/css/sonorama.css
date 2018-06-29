@@ -53,7 +53,7 @@ section h1 {
 	text-transform: uppercase;
 	font-weight: 300;
 	color: #6b6d6f;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'ArcaMajora3', 'Titillium Web', sans-serif;
 	text-align: center;
 	margin: 110px 0 10px;
 }
@@ -202,7 +202,7 @@ section h1 {
 	text-transform: uppercase;
 	font-size: 14px;
 	text-transform: uppercase;
-	font-family: "open sans";
+	font-family: "ArcaMajora3";
 	font-weight: bold;
 }
 #nav2 > ul > li:first-child {padding-top: 15px}
@@ -315,7 +315,7 @@ section h1 {
 	top: 70px;
 	color: #b1b1b1;
 	font-size: 24px;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'ArcaMajora3', 'Titillium Web', sans-serif;
 	font-weight: 300;
 	
 	-webkit-transition: all 0.5s ease-in-out;
@@ -346,7 +346,7 @@ section h1 {
 	float: left;
 	color: #a9a9a9;
 	font-size: 14px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 500;
 	font-style: normal;
 }
@@ -434,7 +434,7 @@ section h1 {
 	font-style: normal;
 	margin-right: 3px;
 	font-weight: 500;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 }
 .audiojs .time strong {padding: 0px 0px 0px 2px;}
 .audiojs .error-message {
@@ -547,7 +547,7 @@ section h1 {
 	margin: 0;
 	color: #f1212d;
 	font-size: 20px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 300;
 	text-transform: uppercase;
 	text-align: left;
@@ -561,7 +561,7 @@ section h1 {
 	margin: 0;
 	color: #858585;
 	font-size: 20px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 300;
 	
 	/*-webkit-transition: all 0.2s ease-in-out;
@@ -573,7 +573,7 @@ section h1 {
 	margin: 0;
 	color: #f1212d;
 	font-size: 20px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 300;
 	position: absolute;
 	bottom: 30px;
@@ -852,14 +852,14 @@ button.btn-play:hover, button.btn-pause:hover{background-color: #000000;}
 	text-transform: uppercase;
 	font-size: 20px;
 	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	margin-bottom: 6px;
 }
 .disc-info p{
 	color: #fff;
 	font-size: 20px;
 	font-weight: 300;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	margin: 0;
 }
 .disc-info p:last-child{margin-top: 10px;}
@@ -867,7 +867,7 @@ button.btn-play:hover, button.btn-pause:hover{background-color: #000000;}
 	color: #c3121c;
 	font-size: 20px;
 	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 }
 .disc-info p a:hover{color: #fff !important;}
 .news-container h1{
@@ -909,7 +909,7 @@ overflow:hidden;
 }
 .track-length {
 	color: #464646;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 500;
 	font-size: 15px;
 	margin-right: 10px;
@@ -922,7 +922,7 @@ overflow:hidden;
 	list-style: decimal outside;
 	font-size: 15px;
 	font-weight: bold;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	display: inline-block;
 	line-height: 0;
 	border-bottom:1px solid #1a1919;
@@ -932,7 +932,7 @@ overflow:hidden;
 }
 .track-info {
 	color: #fff;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 500;
 	font-size: 17px;
 	margin-right: 10px;
@@ -956,7 +956,7 @@ overflow:hidden;
 	border-radius: 10px;
 	color: #a9a7a7;
 	cursor: pointer;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 500;
 	font-size: 11px;
 	padding: 2px 10px;
@@ -1017,7 +1017,7 @@ padding-bottom:18px;
 .sell-platforms .beatport {background-position: center 0; width: 90px;}
 .sell-platforms .bandcamp {background-position: right 0;}
 .sell-platforms span {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ArcaMajora3', 'Roboto', sans-serif;
 	font-weight: 400;
 	font-size: 16px;
 	color: #c3121c;
@@ -1055,7 +1055,7 @@ padding-bottom:18px;
 #myTweet{
 	color: #fff;
 	font-size: 30px;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'ArcaMajora3', 'Titillium Web', sans-serif;
 	width: 1100px;
 	margin: auto;
 	padding: 0 40px;
@@ -1354,7 +1354,7 @@ p.user, p.timePosted, p.interact{display: none;}
 	line-height: 47px;
 	text-align: left;
 	font-weight: 300;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'ArcaMajora3', 'Titillium Web', sans-serif;
 }
 .sec-content strong {font-weight: normal;}
 #about-us>div:nth-of-type(1) {
