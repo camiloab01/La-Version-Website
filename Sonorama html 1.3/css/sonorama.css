@@ -206,6 +206,11 @@ section h1 {
 #nav2 > ul > li a:hover{color: #c3121c;}
 #nav2.active > ul {display: block;}
 
+/* Video */
+.video-fluid{
+	width: 100%;
+  	height: auto;
+} 
 /* Slider */
 .slider{
 	margin-top: 150px;
