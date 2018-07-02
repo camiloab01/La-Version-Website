@@ -634,7 +634,7 @@ section h1 {
 
 /* Tour Dates */
 #dates>div:nth-of-type(1) {
-	background: url(../img/parallax/01.jpg) 50% 0% repeat-y fixed;
+	background: url(../img/parallax/IMG_1444.jpg) 50% 0% repeat-y fixed;
 	background-color: #333333;
 	margin: 0;
 	height: 850px;
@@ -1027,7 +1027,7 @@ padding-bottom:18px;
 
 /* Twitter Quotes */
 #quotes>div:nth-of-type(1) {
-	background: url(../img/parallax/02.jpg) 50% 0% repeat-y fixed;
+	background: url(../img/parallax/IMG_1511.jpg) 50% 0% repeat-y fixed;
 	background-color: #333333;
 	margin: 0;
 	height: 400px;
@@ -1139,7 +1139,7 @@ p.user, p.timePosted, p.interact{display: none;}
 /* Contact */
 .formSent, .formError {display: none;}
 .contact .parallax {
-	background: url(../img/parallax/03.jpg) 50% 0% repeat-y fixed;
+	background: url(../img/parallax/IMG_1411.jpg) 50% 0% repeat-y fixed;
 	background-color: #333333;
 	margin: 0;
 	height: 850px;
