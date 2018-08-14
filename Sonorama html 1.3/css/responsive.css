@@ -268,7 +268,27 @@
 
 }
 
-/* Mobile Portrait Size to Mobile (devices and browsers) */
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 576px) {
+	.video-container {
+		margin-top: 10%;
+	}		
+}
 
+/* Mobile Portrait Size to Mobile (devices and browsers) */
+@media only screen and (max-width: 365px) {
+	.video-container {
+		margin-top: 15%;
+	}
+}
+
+@media only screen and (max-width: 310px) {
+	.video-container {
+		margin-top: 20%;
+	}
+}
+
+@media only screen and (max-width: 270px) {
+	.video-container {
+		margin-top: 25%;
+	}
 }
