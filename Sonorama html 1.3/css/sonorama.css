@@ -1248,7 +1248,6 @@ p.user, p.timePosted, p.interact{display: none;}
 }
 .footer-container .social-ico:after{
 	content:'';
-	background: url("../img/icons/social-icons.png") no-repeat;
 	width: 140px;
 	height: 140px;
 	position: absolute;
@@ -1266,12 +1265,27 @@ p.user, p.timePosted, p.interact{display: none;}
 	margin-top: -30px;
 }
 .footer-container .social-ico:nth-child(5){margin-top: -30px;}
-.footer-container .social-ico.s-facebook:after{background-position: -5px -5px;}
-.footer-container .social-ico.s-twitter:after{background-position: -125px -5px;}
-.footer-container .social-ico.s-youtube:after{background-position: -255px -5px;}
-.footer-container .social-ico.s-soundcloud:after{background-position: -5px -135px;}
-.footer-container .social-ico.s-plus:after{background-position: -252px -131px;}
-
+.footer-container .social-ico.s-facebook:after{
+	background: url("../img/icons/social-icons.png") no-repeat;
+	background-position: -5px -5px;}
+.footer-container .social-ico.s-twitter:after{
+	background: url("../img/icons/social-icons.png") no-repeat;
+	background-position: -125px -5px;}
+.footer-container .social-ico.s-youtube:after{
+	background: url("../img/icons/social-icons.png") no-repeat;
+	background-position: -255px -5px;}
+.footer-container .social-ico.s-soundcloud:after{
+	background: url("../img/icons/social-icons.png") no-repeat;
+	background-position: -5px -135px;}
+.footer-container .social-ico.s-plus:after{
+	background: url("../img/icons/social-icons.png") no-repeat;
+	background-position: -252px -131px;}
+.footer-container .social-ico.s-spotify:after{
+	background: url("../img/icons/social-spotify-icon.png") no-repeat;
+	background-position: 39px 35px;}
+.footer-container .social-ico.s-instagram:after{
+	background: url("../img/icons/social-instagram-icon.png") no-repeat;
+	background-position: 38px 34px;}
 /* Discography Xtras */
 
 .play-btns {
