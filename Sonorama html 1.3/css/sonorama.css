@@ -1286,6 +1286,16 @@ p.user, p.timePosted, p.interact{display: none;}
 .footer-container .social-ico.s-instagram:after{
 	background: url("../img/icons/social-instagram-icon.png") no-repeat;
 	background-position: 38px 34px;}
+
+.developer-footer {
+	text-align: center;
+    padding: 2%;
+    font-size: 0.8em;
+}
+.developer-footer a{
+	color: #434141;
+}
+
 /* Discography Xtras */
 
 .play-btns {
