@@ -1049,7 +1049,7 @@ padding-bottom:18px;
 	background: url(../img/parallax/IMG_1511.jpg) 50% 0% repeat-y fixed;
 	background-color: #333333;
 	margin: 0;
-	height: 400px;
+	height: auto;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -1064,7 +1064,7 @@ padding-bottom:18px;
 	-khtml-background-size: cover !important;
 }
 .parallax-wrapper.quotes {
-	height: 550px;
+	height: 1200px;
     position: relative;
     width: 100% !important;
     /*min-width: 1000px;*/
@@ -1082,6 +1082,7 @@ padding-bottom:18px;
 	z-index: 4;
 }
 #myTweet a{color: #c3121c;}
+#myTweet li{margin-top: 3%}
 p.user, p.timePosted, p.interact{display: none;}
 .twitter-quotes {
 	height: 104px;
