@@ -57,13 +57,15 @@
 		var amplecar = $(".last-news-container ul li").length;
 		var ampleitem = 300;
 		var amplelist = amplecar*ampleitem;
+		var containerWidth = (amplecar-2)*ampleitem;
 		$('.last-news-container ul').css('width', amplelist)
+		$('.last-news-container').css('width', containerWidth)
 		//alert(amplelist);
 		
 		var index = 0;
 		var pos = 1;
 		$(".last-news-next").click(function(){
-		  if( index != amplecar-4){
+		  if( index <= amplecar-4){
 			index++;
 			$(".news-box").stop().animate({scrollLeft:ampleitem*index},'slow');
 		  }
