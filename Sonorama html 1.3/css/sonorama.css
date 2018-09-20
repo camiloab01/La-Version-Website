@@ -990,9 +990,9 @@ overflow:hidden;
 	color: #fff;
 	text-transform: uppercase;
 	margin-top: 20px;
-border-bottom:1px solid #1a1919;
-margin-bottom:15px;
-padding-bottom:18px;
+	border-bottom:1px solid #1a1919;
+	margin-bottom:15px;
+	padding-bottom:18px;
 }
 .disc-title span{color: #c3121c;}
 .disc-date{
