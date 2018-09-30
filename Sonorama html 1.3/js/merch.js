@@ -18,9 +18,9 @@ function obreMerch(quin) {
             tancaMerch();
             $("html, body").animate({ scrollTop: $('#project-show-merch').offset().top - (200) }, 300, function () {
                 $('.project-window-merch').show(0);
-                $('.project-window-merch').css('height', '0');
                 $('.project-window-merch').animate({ height: 550 }, 500, function () {
-                    $('.project-window-merch').css('height', 550); /*$('.project-window').css('height','auto');*/
+                    //$('.project-window-merch').css('height', 550); 
+                    $('.project-window').css('height','auto');
                     $(".project-content-merch").fadeIn("slow");
                 });
             });
@@ -29,7 +29,7 @@ function obreMerch(quin) {
 }
 
 function tancaMerch() {
-    $(".close-btn").click(function () {
+    $(".close-merch-btn").click(function () {
         $(".project-window-merch").slideUp("slow");
         $(".project-content-merch").fadeOut("slow");
         $("html, body").animate({ scrollTop: $('#anchor05').offset().top - (50) }, 1000);
