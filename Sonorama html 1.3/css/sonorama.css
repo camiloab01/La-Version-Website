@@ -1393,9 +1393,9 @@ p.user, p.timePosted, p.interact{display: none;}
 	width: 1300px;
 	margin:0px auto 70px auto;
 	color:#fff;
-	font-size: 26px;
+	font-size: 18px;
 	max-width: 90%;
-	line-height: 47px;
+	line-height: 30px;
 	text-align: left;
 	font-weight: 300;
 	font-family: 'ArcaMajora3', 'Titillium Web', sans-serif;
