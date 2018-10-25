@@ -620,6 +620,9 @@ section h1 {
 	right: -85px;
 	background: url(../img/icons/next-news.png) #838282;
 }
+.flyer-release-news{
+	width: 65%;
+}
 .close-btn, .close2-btn{
 	width: 28px;
 	height: 28px;
