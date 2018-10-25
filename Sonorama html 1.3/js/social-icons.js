@@ -1,6 +1,7 @@
 'use strict';
 
 $(document).ready(function () {
+    alert("ready");
     document.getElementById('social-icons').addEventListener('click', function (event) {
         switch (event.target.id) {
             case 'youtube':
