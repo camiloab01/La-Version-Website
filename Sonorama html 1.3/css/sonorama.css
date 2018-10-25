@@ -586,7 +586,7 @@ section h1 {
 }
 .news-thumb img{
 	width: 300px;
-	height: auto;
+	height: 300px;
 	opacity: 1;
 	
 	/*-webkit-transition: all 0.2s ease-in-out;
